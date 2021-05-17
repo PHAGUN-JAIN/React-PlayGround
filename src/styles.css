@@ -1,4 +1,8 @@
 .App {
   font-family: sans-serif;
+}
+img {
+  width: 50vw;
+  align-content: center;
   text-align: center;
 }
