@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Banner from "./banner";
+import "./static/css/master.css";
 export default class Form extends Component {
   render() {
     return (
