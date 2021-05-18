@@ -6,4 +6,12 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   border: 2px solid black;
+  align-items: center;
+  text-align: center;
+  overflow-y: scroll;
+}
+form label,
+input {
+  float: left;
+  margin-left: 2rem;
 }
