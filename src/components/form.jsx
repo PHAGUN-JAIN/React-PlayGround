@@ -23,6 +23,8 @@ export default class Form extends Component {
             <br />
             <br />
             <input type="button" value="SUBMIT" />
+            <br />
+            <br />
           </form>
         </div>
       </div>
